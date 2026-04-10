@@ -69,4 +69,5 @@
 
 ## 17 Upload file dulieu.sql lên github
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7e6e4776-37fa-4eb5-a453-c39825347540" />
 
